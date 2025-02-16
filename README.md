@@ -1,6 +1,4 @@
-# Side Projects
-
-Este repositório é um repositório pessoal para armazenar e compartilhar projetos paralelos.
+# Este repositório é um repositório pessoal para armazenar e compartilhar projetos paralelos.
 
 ## Sobre
 
