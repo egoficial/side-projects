@@ -48,8 +48,8 @@ main {
 }
 
 section#banner-container {
-    background-image: url("./assets/images/Banner.jpg");
-    background-size: 1200px;
+    background-image: url("./assets/images/banner-reduced.png");
+    background-size: cover;
 
     height: 45%;
     width: 100%;
